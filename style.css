@@ -488,6 +488,7 @@ Hero Image
     align-items:center;
 
     justify-content:center;
+     object-fit: cover;
 
 }
 
@@ -500,6 +501,7 @@ Hero Image
     z-index:5;
 
     transition:.5s;
+    object-fit: cover;
 
 }
 
@@ -603,9 +605,9 @@ Floating Cards
 
 .card2{
 
-    bottom:28%;
+    bottom:58%;
 
-    left:4%;
+    left:45%;
 
 }
 
